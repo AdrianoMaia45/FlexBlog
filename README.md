@@ -1,11 +1,5 @@
-# README — FlexBlog
 
-```md
 # FlexBlog
-
-![Status](https://img.shields.io/badge/status-concluído-brightgreen)
-![Made with](https://img.shields.io/badge/Made%20with-HTML%20%7C%20CSS-orange)
-
 ## 📌 Sobre o Projeto
 
 O FlexBlog é um projeto desenvolvido com foco em praticar conceitos modernos de CSS utilizando Flexbox para construção de layouts responsivos.
