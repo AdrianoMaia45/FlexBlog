@@ -47,5 +47,3 @@ Feito por Adriano Maia.
 
 - GitHub: https://github.com/AdrianoMaia45
 ```
-
----
